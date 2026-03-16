@@ -35,7 +35,8 @@ body {
 }
 
 .container {
-  max-width: 1000px;
+  width: 100%;
+  max-width: 900px;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
@@ -276,16 +277,7 @@ button:active {
     padding: 12px 8px 18px;
   }
 
-  .container {
-    border-radius: 18px;
-    background-position: top center;
-    background-size: cover;
-  }
-
-  .container::before {
-    inset: 8px;
-    border-radius: 12px;
-  }
+ 
 
   .hero-space {
     height: 340px;
