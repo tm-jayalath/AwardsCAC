@@ -91,7 +91,7 @@ function submitForm(){
       const contactDiv = document.getElementById("contactMsg");
       contactDiv.innerHTML = `
         Click the WhatsApp icon to contact our team
-        <a href="https://wa.me/94771234567" target="_blank" style="margin-left:6px">
+        <a href="https://wa.me/9478940050" target="_blank" style="margin-left:6px">
           <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
                style="height:20px;vertical-align:middle;">
         </a>
